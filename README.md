@@ -1,4 +1,4 @@
-This repository is part of my blog[ maps-on-blackboard](http://maps-on-blackboard.com) for article [Thematic map with geojson2svg](http://maps-on-blackboard.com/articles/background-map/)
+This repository is part of my blog[ maps-on-blackboard](http://maps-on-blackboard.com) for article [background-map-with-svg-pattern](http://maps-on-blackboard.com/articles/background-map/)
 
 map1.html from this repository is used in the article.
 
